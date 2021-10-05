@@ -1,2 +1,0 @@
-# Project awal robomind
- Robomind
