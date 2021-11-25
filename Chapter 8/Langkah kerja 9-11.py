@@ -1,0 +1,5 @@
+myString = ("python adalah bahasa pemrograman yang menyenangkan")
+myString = set(myString)
+myString = list(myString)
+myString.sort()
+print("Data karakter huruf yang ada =", myString)
